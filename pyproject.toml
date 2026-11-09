@@ -1,0 +1,12 @@
+[project]
+name = "hqmania-perceptron"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Davi Mathais", email = "100139909+cksalmeida@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "nltk>=3.10.4",
+]
